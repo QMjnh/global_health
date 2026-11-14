@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 456" role="img" aria-labelledby="smallpox-title smallpox-desc">
+  <title id="smallpox-title">Smallpox eradication: benefits and concerns</title>
+  <desc id="smallpox-desc">Lasting benefits included ending natural transmission, protecting future generations, and saving the cost of routine vaccination. Concerns included vaccination without consent, staff being pulled from other services, and harm to trust in future campaigns.</desc>
+  <text x="280" y="32" text-anchor="middle" font-family="Georgia, serif" font-size="27" fill="#111">Smallpox eradication</text>
+  <rect x="1" y="58" width="558" height="180" rx="8" fill="#eef3ee" stroke="#879587"/>
+  <path d="M 25 82 L 39 77 L 53 82 V 96 Q 53 108 39 115 Q 25 108 25 96 Z" fill="none" stroke="#344a34" stroke-width="2"/>
+  <path d="M 32 95 L 37 100 L 47 89" fill="none" stroke="#344a34" stroke-width="2"/>
+  <text x="70" y="103" font-family="Georgia, serif" font-size="24" fill="#243824">Lasting benefits</text>
+  <g font-family="Georgia, serif" font-size="22" fill="#111">
+    <text x="28" y="148">Ended natural transmission</text>
+    <text x="28" y="183">Protected future generations</text>
+    <text x="28" y="218">Saved routine vaccination costs</text>
+  </g>
+  <rect x="1" y="266" width="558" height="180" rx="8" fill="#f7f2e9" stroke="#a3957a"/>
+  <path d="M 25 287 H 54 V 310 H 39 L 31 318 V 310 H 25 Z" fill="none" stroke="#695536" stroke-width="2" stroke-linejoin="round"/>
+  <text x="39" y="305" text-anchor="middle" font-family="Georgia, serif" font-size="20" fill="#695536">?</text>
+  <text x="70" y="311" font-family="Georgia, serif" font-size="24" fill="#59492e">Costs and concerns</text>
+  <g font-family="Georgia, serif" font-size="22" fill="#111">
+    <text x="28" y="356">Vaccination without consent</text>
+    <text x="28" y="391">Staff pulled from other services</text>
+    <text x="28" y="426">Risk of lasting distrust</text>
+  </g>
+</svg>
